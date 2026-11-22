@@ -93,13 +93,13 @@ The following photos document the build in four stages. The detailed assembly of
 
 **3. Electronics installed in the 3D-printed enclosure**
 
-![The bridge electronics assembled inside a 3D-printed enclosure](hardware/img3.jpeg)
+![The bridge electronics assembled inside a 3D-printed enclosure](hardware/img4.jpeg)
 
 *The two-node assembly fitted into its printed enclosure.*
 
 **4. Complete MeshBridge installation**
 
-![Final installation of the Meshtastic UART MeshBridge](hardware/img4.jpeg)
+![Final installation of the Meshtastic UART MeshBridge](hardware/img3.jpeg)
 
 *Final bridge installation, showing the completed hardware assembly.*
 
