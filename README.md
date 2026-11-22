@@ -81,25 +81,25 @@ The following photos document the build in four stages. The detailed assembly of
 
 **1. RP2040 board and DX-LR radio module**
 
-![Raspberry Pi Pico RP2040 next to the DX-LR radio module](hardware/img1.jpg)
+![Raspberry Pi Pico RP2040 next to the DX-LR radio module](hardware/img1.jpeg)
 
 *Identification of the main components used to build each Meshtastic node.*
 
 **2. Assembled nodes and UART interconnection**
 
-![The two assembled RP2040 and DX-LR nodes connected by UART wiring](hardware/img2.jpg)
+![The two assembled RP2040 and DX-LR nodes connected by UART wiring](hardware/img2.jpeg)
 
 *The Master and Slave nodes, with crossed TX/RX signals and a common ground.*
 
 **3. Electronics installed in the 3D-printed enclosure**
 
-![The bridge electronics assembled inside a 3D-printed enclosure](hardware/img3.jpg)
+![The bridge electronics assembled inside a 3D-printed enclosure](hardware/img3.jpeg)
 
 *The two-node assembly fitted into its printed enclosure.*
 
 **4. Complete MeshBridge installation**
 
-![Final installation of the Meshtastic UART MeshBridge](hardware/img4.jpg)
+![Final installation of the Meshtastic UART MeshBridge](hardware/img4.jpeg)
 
 *Final bridge installation, showing the completed hardware assembly.*
 
