@@ -1,0 +1,13 @@
+modify src/modules/Modules.cpp HAS_UART_BRIDGE:
+
+1. En la zona superior de #include:cpp
+
+#ifdef HAS_UART_BRIDGE
+#include "modules/BridgeModule.h"
+#endif
+
+2. Al final de la función void setupModules():cpp
+#ifdef HAS_UART_BRIDGE
+    bridgeModule = new BridgeModule();
+#endif
+
